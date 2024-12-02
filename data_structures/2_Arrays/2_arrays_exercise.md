@@ -17,6 +17,15 @@ Create a list to store these monthly expenses and using that find out,
     got a refund of 200$. Make a correction to your monthly expense list
     based on this
 
+    "Anjali
+    Monthly_expense=[
+    [January,2200],
+    [February,2350],
+    [March,2600],
+    [April,2130],
+    [May,2190]
+    ]
+
 [Solution](https://github.com/codebasics/data-structures-algorithms-python/blob/master/data_structures/2_Arrays/Solution/1_expenses.py)
 
 2. You have a list of your favourite marvel super heros.
